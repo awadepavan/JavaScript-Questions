@@ -20,12 +20,23 @@
  1)primitive:- Number,Boolean,Bigint , String,Null,undefine
  2)Non-primitive:- Array,Obj,Function,undefined,Null
     (Complex data types)
+
 3) what is thhe diff between primitivee and non-primitive data types?
 --> primitive :- it can hold only  sigle datatype
                 it is immutable means after asssigning the value cant be changed
 
     Non-primitive:-It can hold many values 
                 these are not immutable means after assigning value we can channge vallue also
+
+4) what is the diff between null and undefined in js ?
+---> Thre is a valid variable with also a value of data type number
+
+    There ia a valid variable with a value of no data type
+
+5)  what is type coercion in js?
+-->  converting a one dtat type into a diff dtat type caleed as a type coercion
+
+6) 
 
 
 
